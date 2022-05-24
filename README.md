@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Movie download website](Will be available shortly)
 
-- 👨‍💻 All of my projects are available at [Wahababdul-rashed.netlify.app](Wahababdul-rashed.netlify.app)
+- 👨‍💻 All of my projects are available at [Wahab-rasheed.vercel.app](Wahababdul-rashed.netlify.app)
 
 - 📝 I regularly write articles on [rasheedblogger.netlify.app](rasheedblogger.netlify.app)
 
