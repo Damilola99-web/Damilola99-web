@@ -15,15 +15,13 @@
 
 - 🤝 I’m looking for help with [Movie download website](Will be available shortly)
 
-- 👨‍💻 All of my projects are available at [Wahab-rasheed.vercel.app](Wahababdul-rashed.netlify.app)
+- 👨‍💻 All of my projects are available at [github.com/Damilola99-web](https://github.com/Damilola99-web)
 
-- 📝 I regularly write articles on [rasheedblogger.netlify.app](rasheedblogger.netlify.app)
-
-- 💬 Ask me about **Html, Css , BOOTSTRAP, GIT, Sass, JavaScript**
+- 💬 Ask me about **Html, CSS , BOOTSTRAP, GIT, SASS, JavaScript React js**
 
 - 📫 How to reach me **rasheedw622@gmail.com**
 
-- 📄 Know about my experiences [wahabrasheedresume.netlify.app](wahabrasheedresume.netlify.app)
+- 📄 Know about my experiences [wahab-rasheed.vercel.app](https://wahab-rasheed.vercel.app)
 
 - ⚡ Fun fact **I'm actually funny and great to work with.**
 
