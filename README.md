@@ -5,19 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damilola99-web" alt="damilola99-web" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rasheedwahab" target="blank"><img src="https://img.shields.io/twitter/follow/rasheedwahab?logo=twitter&style=for-the-badge" alt="rasheedwahab" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rashedwahab" target="blank"><img src="https://img.shields.io/twitter/follow/rasheedwahab?logo=twitter&style=for-the-badge" alt="rasheedwahab" /></a> </p>
 
-- 🔭 I’m currently working on [Movie download website](Will be available shortly)
+- 🔭 I’m currently working on [A task management App](Will be available shortly)
 
-- 🌱 I’m currently learning **JavaScript, typescript and react**
-
-- 👯 I’m looking to collaborate on [movie download website](Will be available shortly)
-
-- 🤝 I’m looking for help with [Movie download website](Will be available shortly)
+- 🌱 I’m currently learning **Data Structures and Algorithms, Node js and Databases**
 
 - 👨‍💻 All of my projects are available at [github.com/Damilola99-web](https://github.com/Damilola99-web)
 
-- 💬 Ask me about **Html, CSS , BOOTSTRAP, GIT, SASS, JavaScript React js**
+- 💬 Ask me about **Javascript, React , Typescript, Git, SASS, Tailwind CSS, Node js, Databases**
 
 - 📫 How to reach me **rasheedw622@gmail.com**
 
