@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/rashedwahab" target="blank"><img src="https://img.shields.io/twitter/follow/rashedwahab?logo=twitter&style=for-the-badge" alt="rashedwahab" /></a> </p>
 
-- 🔭 I’m currently working on [A task management App](Will be available shortly)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Node js and Databases**
 
@@ -20,10 +19,6 @@
 - 📄 Know about my experiences [wahab-rasheed.vercel.app](https://wahab-rasheed.vercel.app)
 
 - ⚡ Fun fact **I'm actually funny and great to work with.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
